@@ -1,0 +1,17 @@
+matplotlib==3.2.2
+pandas==1.0.5
+sklearn==0.20.3
+numpy==1.18.5
+spacy==2.3.5
+watermark==2.1.0
+tweepy==3.9.0
+sys==3.7.7
+nltk==3.5
+csv==1.0
+re==2.2.1
+DateTime==4.3
+wordcloud==1.8.1
+textblob==0.15.3
+json==2.0.9
+en_core_web_sm==2.3.1
+
